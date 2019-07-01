@@ -11,7 +11,7 @@ const fetchVideoInfo = require("youtube-info");
 const initcmd = botSettings.initcmd;
 const ytApiKey = botSettings.AIzaSyDXsAT7Bi-uY07llBlXkBEj_xHTEvZdnm4;
 const youtube = new YouTube(AIzaSyDXsAT7Bi-uY07llBlXkBEj_xHTEvZdnm4);
-const botn3k4a= ['ID']; // الايدي بتاعك انتا ووالادارة
+const botn3k4a= ['132289073254498305']; // الايدي بتاعك انتا ووالادارة
 // By : n3k4a. || نعكشا
 const bot = new Discord.Client({
 	disableEveryone: true
